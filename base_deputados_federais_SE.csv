@@ -1,0 +1,17 @@
+ano,turno,sigla_partido,resultado,cargo,sigla_uf,genero,raca,id_candidato_bd,nome_urna,nome
+2018,1,PDT,eleito por media,deputado federal,SE,masculino,branca,163367,Fábio Henrique,Fabio Henrique Santana De Carvalho
+2018,1,PT,eleito por media,deputado federal,SE,masculino,branca,316042,Joao Daniel,Joao Somariva Daniel
+2018,1,PSC,eleito por media,deputado federal,SE,masculino,parda,317680,Valdevan Noventa,José Valdevan De Jesus Santos
+2018,1,MDB,eleito por qp,deputado federal,SE,masculino,branca,386836,Fabio Reis,Fabio De Almeida Reis
+2018,1,PSD,eleito por qp,deputado federal,SE,masculino,parda,497357,Fábio Mitidieri,Fábio Cruz Mitidieri
+2018,1,PL,eleito por qp,deputado federal,SE,masculino,parda,663674,Bosco Costa,João Bosco Da Costa
+2018,1,SOLIDARIEDADE,eleito por qp,deputado federal,SE,masculino,branca,711116,Gustinho Ribeiro,Luiz Augusto Carvalho Ribeiro Filho
+2018,1,PP,eleito por qp,deputado federal,SE,masculino,branca,1506310,Laercio Oliveira,Laercio Jose De Oliveira
+2022,1,PT,eleito por qp,deputado federal,SE,masculino,branca,316042,Joao Daniel,Joao Somariva Daniel
+2022,1,PSD,eleito por qp,deputado federal,SE,masculino,branca,386836,Fabio Reis,Fabio De Almeida Reis
+2022,1,PSD,eleito por media,deputado federal,SE,feminino,branca,546755,Delegada Katarina,Katarina Feitoza Lima Santana
+2022,1,PP,eleito por media,deputado federal,SE,masculino,parda,660041,Thiago De Joaldo,Jose Thiago Alves De Carvalho
+2022,1,REPUBLICANOS,eleito por qp,deputado federal,SE,masculino,branca,711116,Gustinho Ribeiro,Luiz Augusto Carvalho Ribeiro Filho
+2022,1,UNIÃO,eleito por media,deputado federal,SE,masculino,branca,1046845,Rodrigo Valadares,Rodrigo Santana Valadares
+2022,1,UNIÃO,eleito por qp,deputado federal,SE,feminino,branca,1138490,Yandra De André,Yandra Barreto Ferreira
+2022,1,PL,eleito por media,deputado federal,SE,masculino,parda,1216005,Icaro De Valmir,Icaro Barbosa Costa
